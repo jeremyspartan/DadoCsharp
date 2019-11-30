@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\116170584\\Documents\\GitHub\\BasicoCsharp\\BasicoCsharp\\basicoCsharp\\DadoCsharp\\DadoCsharp.csproj": {}
+    "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\116170584\\Documents\\GitHub\\BasicoCsharp\\BasicoCsharp\\basicoCsharp\\DadoCsharp\\DadoCsharp.csproj": {
+    "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\116170584\\Documents\\GitHub\\BasicoCsharp\\BasicoCsharp\\basicoCsharp\\DadoCsharp\\DadoCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj",
         "projectName": "DadoCsharp",
-        "projectPath": "C:\\Users\\116170584\\Documents\\GitHub\\BasicoCsharp\\BasicoCsharp\\basicoCsharp\\DadoCsharp\\DadoCsharp.csproj",
+        "projectPath": "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj",
         "packagesPath": "C:\\Users\\116170584\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\116170584\\Documents\\GitHub\\BasicoCsharp\\BasicoCsharp\\basicoCsharp\\DadoCsharp\\obj\\",
+        "outputPath": "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
