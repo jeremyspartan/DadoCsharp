@@ -1,0 +1,11 @@
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\bin\Debug\netcoreapp3.0\DadoCsharp.exe
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\bin\Debug\netcoreapp3.0\DadoCsharp.deps.json
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\bin\Debug\netcoreapp3.0\DadoCsharp.runtimeconfig.json
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\bin\Debug\netcoreapp3.0\DadoCsharp.runtimeconfig.dev.json
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\bin\Debug\netcoreapp3.0\DadoCsharp.dll
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\bin\Debug\netcoreapp3.0\DadoCsharp.pdb
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\obj\Debug\netcoreapp3.0\DadoCsharp.csprojAssemblyReference.cache
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\obj\Debug\netcoreapp3.0\DadoCsharp.AssemblyInfoInputs.cache
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\obj\Debug\netcoreapp3.0\DadoCsharp.AssemblyInfo.cs
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\obj\Debug\netcoreapp3.0\DadoCsharp.dll
+C:\Users\jerem_000\Documents\GitHub\DadoCsharp\DadoCsharp\obj\Debug\netcoreapp3.0\DadoCsharp.pdb
