@@ -8,7 +8,7 @@ namespace DadoCsharp
         {
             do
             {
-                if (Console.ReadKey().Key == ConsoleKey.Backspace)
+                if (Console.ReadKey().Key == ConsoleKey.S)
                 {
                     Console.WriteLine("Limpiado");
                 }
