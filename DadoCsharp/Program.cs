@@ -13,26 +13,8 @@ namespace DadoCsharp
                     Console.Clear();
                     Console.WriteLine("Nueva Visualizacion");
                 }
-                Random r = new Random();
-                int num = r.Next(1,7);
-                int[] arreglo = new int[3]; 
-                arreglo[0]=num;
-
-                num = r.Next(1, 7); 
-                while(arreglo[0] == num)
-                {
-                    num = r.Next(1, 7);
-                }
-                arreglo[1] = num; 
-
-                num = r.Next(1, 8);
-                while (arreglo[0] == num || arreglo[1] == num)
-                {
-                    num = r.Next(1, 7);
-                }
-                arreglo[2] = num;
-
-                DibujarDado(arreglo[0], arreglo[1], arreglo[2]);
+                NumerosDado();
+                NumerosDado();
             } while (true);
 
 
@@ -54,7 +36,39 @@ namespace DadoCsharp
                 Console.WriteLine("                       #     {0}      #", 7-CaraSuperior);
                 Console.WriteLine("                       #            #");
                 Console.WriteLine("                       ##############");
+                Console.WriteLine("La sumatoria los valores de las caras de los dados es "
+                    +Sumatoria(CaraFrontal, CaraIzquierda, CaraSuperior).ToString());
+            }
+           
+            static void NumerosDado()
+            {
+                Random r = new Random();
+                int[] arreglo = new int[3];
+                
+                int num = r.Next(1, 7);
+                arreglo[0] = num;
 
+                num = r.Next(1, 7);
+                while (arreglo[0] == num)
+                {
+                    num = r.Next(1, 7);
+                }
+                arreglo[1] = num;
+
+                num = r.Next(1, 8);
+                while (arreglo[0] == num || arreglo[1] == num)
+                {
+                    num = r.Next(1, 7);
+                }
+                arreglo[2] = num;
+
+                DibujarDado(arreglo[0], arreglo[1], arreglo[2]);
+            }
+
+            static int Sumatoria(int CaraSuperior, int CaraFrontal, int CaraIzquierda)
+            {
+                int suma = CaraFrontal + CaraIzquierda + CaraSuperior + (7 - CaraFrontal) + (7 - CaraIzquierda) + (7 + CaraFrontal);
+                    return suma;
             }
         }
     }
