@@ -67,7 +67,7 @@ namespace DadoCsharp
 
             static int Sumatoria(int CaraSuperior, int CaraFrontal, int CaraIzquierda)
             {
-                int suma = CaraFrontal + CaraIzquierda + CaraSuperior + (7 - CaraFrontal) + (7 - CaraIzquierda) + (7 + CaraFrontal);
+                int suma = CaraFrontal + CaraIzquierda + CaraSuperior + (7 - CaraFrontal) + (7 - CaraIzquierda) + (7 - CaraSuperior);
                     return suma;
             }
         }
