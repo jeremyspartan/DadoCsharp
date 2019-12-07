@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jerem_000\\.nuget\\packages\\": {}
+    "C:\\Users\\116170584\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jerem_000\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj",
       "projectName": "DadoCsharp",
-      "projectPath": "C:\\Users\\jerem_000\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj",
-      "packagesPath": "C:\\Users\\jerem_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jerem_000\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\obj\\",
+      "projectPath": "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\DadoCsharp.csproj",
+      "packagesPath": "C:\\Users\\116170584\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\116170584\\Documents\\GitHub\\DadoCsharp\\DadoCsharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jerem_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\116170584\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
